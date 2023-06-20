@@ -2,18 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="243b3123-be51-4c9f-b35c-d5e906bffed8" name="Changes" comment="solved some problems">
-      <change afterPath="$PROJECT_DIR$/Best Time to Buy and Sell Stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily Temperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluate Reverse Polish Notation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generate Parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encode_and_decode_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest_consecutive_sequence2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Car Fleet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Container With Most Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excel Sheet Column Title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find Minimum in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/House Robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Koko Eating Bananas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Largest Rectangle in Histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Longest Consecutive Sequence 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Longest Repeating Character Replacement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maximum Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Min Cost Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minimum Window Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pascal's Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Permutation in String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pick from both sides.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search a 2D Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time Based Key-Value Store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trapping Rain Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Sum II - Input Array Is Sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Valid Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshita.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spiral matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode217.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contains Duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/longest_consecutive_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/longest_consecutive_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Best Time to Buy and Sell Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Temperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily Temperatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +68,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Generate Parentheses">
-    <configuration name="Evaluate Reverse Polish Notation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Excel Sheet Column Title">
+    <configuration name="Excel Sheet Column Title" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evaluate Reverse Polish Notation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel Sheet Column Title.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Generate Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Longest Repeating Character Replacement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +104,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Generate Parentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Repeating Character Replacement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="longest_consecutive_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Longest Substring Without Repeating Characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +126,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/longest_consecutive_sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longest Substring Without Repeating Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pascal's Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Competitive Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pascal's Triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Permutation in String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Competitive Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Permutation in String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,57 +201,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="min_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Competitive Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/min_stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="valid_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Competitive Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/valid_parentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Generate Parentheses" />
-        <item itemvalue="Python.Evaluate Reverse Polish Notation" />
-        <item itemvalue="Python.min_stack" />
-        <item itemvalue="Python.valid_parentheses" />
-        <item itemvalue="Python.longest_consecutive_sequence" />
+        <item itemvalue="Python.Excel Sheet Column Title" />
+        <item itemvalue="Python.Pascal's Triangle" />
+        <item itemvalue="Python.Permutation in String" />
+        <item itemvalue="Python.Longest Repeating Character Replacement" />
+        <item itemvalue="Python.Longest Substring Without Repeating Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +223,11 @@
       <workItem from="1662784387721" duration="4511000" />
       <workItem from="1685815354364" duration="5620000" />
       <workItem from="1685898807251" duration="25920000" />
+      <workItem from="1686223109399" duration="20580000" />
+      <workItem from="1686683177392" duration="2000" />
+      <workItem from="1686777618959" duration="6062000" />
+      <workItem from="1686828513961" duration="15035000" />
+      <workItem from="1687110144392" duration="9185000" />
     </task>
     <task id="LOCAL-00001" summary="solved some problems">
       <created>1685999768704</created>
@@ -214,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685999768705</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solved some problems">
+      <created>1686223120221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686223120221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,24 +277,51 @@
           <line>23</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pascal's Triangle.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Competitive_Programming$product_of_array_except_self.coverage" NAME="product_of_array_except_self Coverage Results" MODIFIED="1685991307297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Pick_from_both_sides.coverage" NAME="Pick from both sides Coverage Results" MODIFIED="1686509064396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1687035927648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$trapping_rain_water.coverage" NAME="trapping_rain_water Coverage Results" MODIFIED="1685817960933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Generate_Parentheses.coverage" NAME="Generate Parentheses Coverage Results" MODIFIED="1686068834119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$gauri10Sep.coverage" NAME="gauri10Sep Coverage Results" MODIFIED="1662787594070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Longest_Consecutive_Sequence_2.coverage" NAME="Longest Consecutive Sequence 2 Coverage Results" MODIFIED="1686779118514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Search_a_2D_Matrix.coverage" NAME="Search a 2D Matrix Coverage Results" MODIFIED="1686872943229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Koko_Eating_Bananas.coverage" NAME="Koko Eating Bananas Coverage Results" MODIFIED="1686875048751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$min_stack.coverage" NAME="min_stack Coverage Results" MODIFIED="1686057627361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$gauri10Sep2.coverage" NAME="gauri10Sep2 Coverage Results" MODIFIED="1662787883312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$ValidAnagram.coverage" NAME="ValidAnagram Coverage Results" MODIFIED="1685894083367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1685894525738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode217.coverage" NAME="Leetcode217 Coverage Results" MODIFIED="1685893672814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Container_With_Most_Water.coverage" NAME="Container With Most Water Coverage Results" MODIFIED="1686829825664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Permutation_in_String.coverage" NAME="Permutation in String Coverage Results" MODIFIED="1687121315413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$group_anagrams.coverage" NAME="group_anagrams Coverage Results" MODIFIED="1685899849625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$top_k_frequent_elements.coverage" NAME="top_k_frequent_elements Coverage Results" MODIFIED="1685900630762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$valid_sudoku.coverage" NAME="valid_sudoku Coverage Results" MODIFIED="1685993433406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Longest_Repeating_Character_Replacement.coverage" NAME="Longest Repeating Character Replacement Coverage Results" MODIFIED="1687036702320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$longest_consecutive_sequence.coverage" NAME="longest_consecutive_sequence Coverage Results" MODIFIED="1686003089092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$valid_parentheses.coverage" NAME="valid_parentheses Coverage Results" MODIFIED="1686057128071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Evaluate_Reverse_Polish_Notation.coverage" NAME="Evaluate Reverse Polish Notation Coverage Results" MODIFIED="1686067846106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1686332586718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Daily_Temperatures.coverage" NAME="Daily Temperatures Coverage Results" MODIFIED="1686223828040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$spiral_matrix.coverage" NAME="spiral matrix Coverage Results" MODIFIED="1686341447099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Valid_Palindrome.coverage" NAME="Valid Palindrome Coverage Results" MODIFIED="1686781036848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1686784946423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Search_in_Rotated_Sorted_Array.coverage" NAME="Search in Rotated Sorted Array Coverage Results" MODIFIED="1686944560910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$product_of_array_except_self.coverage" NAME="product_of_array_except_self Coverage Results" MODIFIED="1685991307297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Find_Minimum_in_Rotated_Sorted_Array.coverage" NAME="Find Minimum in Rotated Sorted Array Coverage Results" MODIFIED="1686943454833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$gauri10Sep.coverage" NAME="gauri10Sep Coverage Results" MODIFIED="1662787594070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Two_Sum_II___Input_Array_Is_Sorted.coverage" NAME="Two Sum II - Input Array Is Sorted Coverage Results" MODIFIED="1686783954840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Pascal_s_Triangle.coverage" NAME="Pascal's Triangle Coverage Results" MODIFIED="1687125913736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Excel_Sheet_Column_Title.coverage" NAME="Excel Sheet Column Title Coverage Results" MODIFIED="1687204673163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1685894525738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$eshita.coverage" NAME="eshita Coverage Results" MODIFIED="1686598132998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Maximum_Subarray.coverage" NAME="Maximum Subarray Coverage Results" MODIFIED="1686435000271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode217.coverage" NAME="Leetcode217 Coverage Results" MODIFIED="1685893672814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$top_k_frequent_elements.coverage" NAME="top_k_frequent_elements Coverage Results" MODIFIED="1685900630762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Minimum_Window_Substring.coverage" NAME="Minimum Window Substring Coverage Results" MODIFIED="1686251653742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Car_Fleet.coverage" NAME="Car Fleet Coverage Results" MODIFIED="1686333525127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
